@@ -11,6 +11,11 @@ navbar:
       href: flex_dashboard.html
     - text: Home
       href: index.html
+    - text: Introduction
+      href: Introduction.html
+    - text: Resume
+      href: Resume.html
+    
 
 output:
   html_document:
