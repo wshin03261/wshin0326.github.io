@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 output: html_document
-date: "2024-10-30"
+
 ---
 
 # Experiences
